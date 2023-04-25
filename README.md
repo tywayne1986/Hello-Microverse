@@ -45,11 +45,11 @@ OPTIONAL SECTIONS:
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This project is the first project assignment given to us by Microverse
 
-**[your_project__name]** is a...
+**[Hello Microverse]** is a html file that shows Hello Microverse
 
 ## 🛠 Built With <a name="built-with"></a>
 
